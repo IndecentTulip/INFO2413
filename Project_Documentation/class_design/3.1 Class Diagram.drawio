@@ -1,6 +1,6 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.17">
   <diagram name="Page-1" id="rKXKSbG-rJBd0n83CsFM">
-    <mxGraphModel dx="3134" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3924" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="c6BLKW05PTlq8Iq8Gtbe-1" value="Notes:&lt;br&gt;&lt;div&gt;1. Core entities in the system: Admin, Staff, Doctor, Patient, Exam, Results, Report, Monitor&lt;/div&gt;&lt;div&gt;2. Classes should support the use cases&lt;/div&gt;&lt;div&gt;3. design patterns (like MVC, Observer, Factory, etc.)&lt;/div&gt;&lt;div&gt;4  Single Responsibility&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="-680" y="60" width="250" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="NEkFFiVutFpPdjRCEoVY-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.393;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="c6BLKW05PTlq8Iq8Gtbe-2" target="c6BLKW05PTlq8Iq8Gtbe-32">
+        <mxCell id="NEkFFiVutFpPdjRCEoVY-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.393;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="c6BLKW05PTlq8Iq8Gtbe-2" target="c6BLKW05PTlq8Iq8Gtbe-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-265" y="499" as="targetPoint" />
           </mxGeometry>
@@ -156,43 +156,43 @@
         <mxCell id="KpaCmmg_O-ahOkZ_EsFG-4" value="_" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="KpaCmmg_O-ahOkZ_EsFG-1" vertex="1">
           <mxGeometry y="158" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NEkFFiVutFpPdjRCEoVY-1" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NEkFFiVutFpPdjRCEoVY-1" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-90" y="280" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NEkFFiVutFpPdjRCEoVY-2" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NEkFFiVutFpPdjRCEoVY-2" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="220" y="280" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NEkFFiVutFpPdjRCEoVY-3" value="Creates" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NEkFFiVutFpPdjRCEoVY-3" value="Creates" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="50" y="280" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NEkFFiVutFpPdjRCEoVY-4" value="one or more patient creates exactly one account" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="150" width="110" height="100" as="geometry" />
+        <mxCell id="NEkFFiVutFpPdjRCEoVY-4" value="one or more patient creates exactly one account" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="120" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="NEkFFiVutFpPdjRCEoVY-5" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NEkFFiVutFpPdjRCEoVY-5" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-120" y="768" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NEkFFiVutFpPdjRCEoVY-7" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NEkFFiVutFpPdjRCEoVY-7" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="200" y="738" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NEkFFiVutFpPdjRCEoVY-8" value="Creates, Delete, or Modify&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NEkFFiVutFpPdjRCEoVY-8" value="Creates, Delete, or Modify&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-30" y="768" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NEkFFiVutFpPdjRCEoVY-9" value="More than 1 admin can create, delete, or modify more than 1 workers account." style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NEkFFiVutFpPdjRCEoVY-9" value="More than 1 admin can create, delete, or modify more than 1 workers account." style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="590" width="110" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="NEkFFiVutFpPdjRCEoVY-20" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NEkFFiVutFpPdjRCEoVY-20" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-240" y="654" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NEkFFiVutFpPdjRCEoVY-21" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NEkFFiVutFpPdjRCEoVY-21" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-255" y="479" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NEkFFiVutFpPdjRCEoVY-22" value="Approves" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NEkFFiVutFpPdjRCEoVY-22" value="Approves" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-240" y="550" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NEkFFiVutFpPdjRCEoVY-23" value="More than 1 admin approves of more than 1 patient account created" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NEkFFiVutFpPdjRCEoVY-23" value="More than 1 admin approves of more than 1 patient account created" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-410" y="520" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="NEkFFiVutFpPdjRCEoVY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.004;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="c6BLKW05PTlq8Iq8Gtbe-30" target="c6BLKW05PTlq8Iq8Gtbe-20">
+        <mxCell id="NEkFFiVutFpPdjRCEoVY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.004;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="c6BLKW05PTlq8Iq8Gtbe-30" target="c6BLKW05PTlq8Iq8Gtbe-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>

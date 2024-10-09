@@ -157,7 +157,7 @@
             <mxPoint x="422.5" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vlcMxP6JeE746XGNywpA-32" value="getRecord(email)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vlcMxP6JeE746XGNywpA-31" vertex="1" connectable="0">
+        <mxCell id="vlcMxP6JeE746XGNywpA-32" value="getUserRecord(email)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vlcMxP6JeE746XGNywpA-31" vertex="1" connectable="0">
           <mxGeometry x="-0.6118" y="-2" relative="1" as="geometry">
             <mxPoint x="53" y="-12" as="offset" />
           </mxGeometry>
@@ -237,7 +237,7 @@
             <mxPoint x="860" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vlcMxP6JeE746XGNywpA-47" value="__init__()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vlcMxP6JeE746XGNywpA-46" vertex="1" connectable="0">
+        <mxCell id="vlcMxP6JeE746XGNywpA-47" value="createPatient/Doctor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vlcMxP6JeE746XGNywpA-46" vertex="1" connectable="0">
           <mxGeometry x="-0.6118" y="-2" relative="1" as="geometry">
             <mxPoint x="53" y="-12" as="offset" />
           </mxGeometry>
